@@ -8,4 +8,11 @@
   Run `npm i` to install the dependencies.
 
   Run `npm run dev` to start the development server.
+
+  ### Done by Team 41:
+  Tan Eng Tong Chervelle
+  Pang Jia De
+  Lim Min Xuan
+  Hooi Yong Xiang
+  Koh Han Sheng
   
